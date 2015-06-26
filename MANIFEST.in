@@ -1,0 +1,4 @@
+include *.txt
+recursive-include sample *.bat
+recursive-include lib *.egg *.tar
+recursive-include doc *.pdf
